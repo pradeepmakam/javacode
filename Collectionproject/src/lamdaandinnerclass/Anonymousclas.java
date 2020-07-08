@@ -17,7 +17,7 @@ public class Anonymousclas {
 			//we neednot write same in method as well
 				NormalInterface nv2=(i)-> {
 				System.out.println("hello");
-					
+			//hi		
 			};
 	
 	//or
